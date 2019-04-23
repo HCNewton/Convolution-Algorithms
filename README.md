@@ -1,2 +1,2 @@
-# 2016-Convolution-Algorithms
+#Convolution-Algorithms
 Simple and Pyramidal Convolution Algorithms. For future embedded implementations.
